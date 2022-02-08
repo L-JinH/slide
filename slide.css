@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: pink;
+}
+
+.slide {
+  width: 1080px;
+  /* overflow: hidden; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  width: 100%;
+  white-space: nowrap;
+}
